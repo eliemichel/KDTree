@@ -1,0 +1,12 @@
+{
+	"name": "com.exppad.kdtree",
+	"version": "1.0.0",
+	"displayName": "KDTree for Unity",
+	"description": "A packaged version of the efficient KD-Tree library by Vili Volčini",
+	"keywords": ["data structure", "kdtree"],
+	"author": {
+		"name": "Elie Michel",
+		"email": "elie@exppad.com",
+		"url": "https://exppad.com/"
+	}
+}
